@@ -1,0 +1,15 @@
+C:\Users\Sabah Tartir\stacktask\bin\Debug\net6.0\stacktask.exe
+C:\Users\Sabah Tartir\stacktask\bin\Debug\net6.0\stacktask.deps.json
+C:\Users\Sabah Tartir\stacktask\bin\Debug\net6.0\stacktask.runtimeconfig.json
+C:\Users\Sabah Tartir\stacktask\bin\Debug\net6.0\stacktask.dll
+C:\Users\Sabah Tartir\stacktask\bin\Debug\net6.0\ref\stacktask.dll
+C:\Users\Sabah Tartir\stacktask\bin\Debug\net6.0\stacktask.pdb
+C:\Users\Sabah Tartir\stacktask\obj\Debug\net6.0\stacktask.csproj.AssemblyReference.cache
+C:\Users\Sabah Tartir\stacktask\obj\Debug\net6.0\stacktask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabah Tartir\stacktask\obj\Debug\net6.0\stacktask.AssemblyInfoInputs.cache
+C:\Users\Sabah Tartir\stacktask\obj\Debug\net6.0\stacktask.AssemblyInfo.cs
+C:\Users\Sabah Tartir\stacktask\obj\Debug\net6.0\stacktask.csproj.CoreCompileInputs.cache
+C:\Users\Sabah Tartir\stacktask\obj\Debug\net6.0\stacktask.dll
+C:\Users\Sabah Tartir\stacktask\obj\Debug\net6.0\ref\stacktask.dll
+C:\Users\Sabah Tartir\stacktask\obj\Debug\net6.0\stacktask.pdb
+C:\Users\Sabah Tartir\stacktask\obj\Debug\net6.0\stacktask.genruntimeconfig.cache
