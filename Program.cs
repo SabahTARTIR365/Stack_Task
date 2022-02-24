@@ -11,6 +11,8 @@ namespace StackTask
             stack.Push(37.5);
             stack.Push(5.2);
             stack.Print();
+            stack.Pop();
+            stack.Print();
             stack.Peak();
             stack.Clear();
              // System.Console.WriteLine($"sum{sum}");
