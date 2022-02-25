@@ -17,6 +17,7 @@ namespace StackTask
             stack.Clear();
              // System.Console.WriteLine($"sum{sum}");
              stack.Peak();
+             
         }
     }
 }
