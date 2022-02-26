@@ -10,6 +10,7 @@ namespace StackTask
        public int Count=> _currentIndex +1; 
         public void Push(T item)=> _items[++_currentIndex]=item;
       
+
       
         // it's a return statment indirictly
           public T Pop()=>  _items[_currentIndex--];
