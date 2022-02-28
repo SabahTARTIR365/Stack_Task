@@ -2,14 +2,14 @@ using System;
 namespace StackTask
 {
     public class STACK <T>
-    {
-        private readonly T[] _items;
+    {   private readonly T[] _items;
         private int _currentIndex=-1;
+
 
         public STACK() =>_items = new T[1000000];
        public int Count=> _currentIndex +1; 
         public void Push(T item)=> _items[++_currentIndex]=item;
-      
+    
         // it's a return statment indirictly
           public T Pop()=>  _items[_currentIndex--];
           public void Print ()
